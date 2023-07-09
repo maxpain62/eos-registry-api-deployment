@@ -1,4 +1,4 @@
 deployment:
   replicas: 1
 ingress:
-  host: prod-registry.edshopper.com
+  host: perf-registry.edshopper.com
