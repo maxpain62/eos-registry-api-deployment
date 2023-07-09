@@ -1,4 +1,4 @@
 deployment:
   replicas: 1
 ingress:
-  host: qa-registy.edshopper.com
+  host: dev-registry.edshopper.com
